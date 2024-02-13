@@ -7,7 +7,7 @@ A bit about me:
 - I aim to be like Bruce Lee in this scene: https://www.youtube.com/watch?v=hhvBTy28VJM
 
 ### To Access My Repositories/Professional Background
-https://github.com/joerezo
+https://github.com/joerezo  
 www.linkedin.com/in/joseph-cerezo
   
 ## Your To-Do List
