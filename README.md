@@ -4,11 +4,11 @@ A bit about me:
 - I'm a tinkerer with an extensive background in Multi-Disciplinary Engineering: Nuclear Power, Electrical, Mechanical, Chemistry, Destructive and Non-Destructive testing
 - Horse racing got me interested in statistics, machine learning and model generation
 - I got into Software engineering to automate my ideas and really enjoy the endless posibilities
-- I aim to be like Bruce Lee in this scene: https://www.youtube.com/watch?v=hhvBTy28VJM
+- I aim to be like Bruce Lee in this scene: (https://www.youtube.com/watch?v=hhvBTy28VJM)
 
 ### To Access My Repositories/Professional Background
-https://github.com/joerezo  
-www.linkedin.com/in/joseph-cerezo
+(https://github.com/joerezo)  
+(www.linkedin.com/in/joseph-cerezo)
   
 ## Your To-Do List
  -[x] Landed on joerezo's page  
